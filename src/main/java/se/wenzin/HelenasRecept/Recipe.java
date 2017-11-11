@@ -27,7 +27,7 @@ public class Recipe {
     private int numberOfUnits;
 
 
-    //private List<Ingrediens> ingredientsForRecipe;
+    //private List<Ingredientt> ingredientsForRecipe;
 
     @Column(name="description")
     private String description;
