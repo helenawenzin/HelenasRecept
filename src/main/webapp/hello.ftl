@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Hello ${recipe.name}!</title>
+    <title>Recipe</title>
 </head>
 <body>
     <h2>${recipe.name}</h2>

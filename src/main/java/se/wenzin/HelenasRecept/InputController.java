@@ -19,4 +19,10 @@ public class InputController {
         model.addAttribute("recipe", recipe);
         return "hello";
     }
+
+    @RequestMapping("/addrecipe")
+    public String addrecipe(Model model) {
+        return "addrecipe";
+    }
+
 }
